@@ -60,9 +60,9 @@ body {
   color: #595959;
 }
 
-/* My projects saction */
+/* My projects section */
 
-.my-projects-saction {
+.my-projects-section {
   margin: 0 0 50px 0;
 }
 
@@ -102,7 +102,7 @@ body {
 
 /* My experience projects */
 
-.my-experience-saction {
+.my-experience-section {
   margin: 0 0 50px 0;
 }
 
@@ -130,7 +130,7 @@ body {
   color: #fb6d3a;
 }
 
-.my-work-experience-posithion {
+.my-work-experience-position {
   font-style: normal;
   font-weight: bold;
   font-size: 16px;
@@ -203,11 +203,11 @@ body {
   color: #000000;
 }
 
-/* Sidebar saction */
+/* Sidebar section */
 
-.saidbar-section {
+.sidebar-section {
   background-color: #1e2939;
-  width: 420px;
+  width: 80%;
   padding: 60px 10px;
 }
 
@@ -268,13 +268,13 @@ body {
   fill: #1e2939;
 }
 
-.Contact-saction,
-.Tech-scills-saction,
+.Contact-section,
+.Tech-scills-section,
 .my-languages {
   margin: 50px 0 0 40px;
 }
 
-.saidbar-title {
+.sidebar-title {
   font-style: normal;
   font-weight: bold;
   font-size: 22px;
@@ -283,9 +283,9 @@ body {
   margin-bottom: 10px;
 }
 
-/* Contacts saction */
+/* Contacts section */
 
-.Contacts-saction-type {
+.Contacts-section-type {
   font-weight: bold;
   font-size: 14px;
   line-height: 24px;
@@ -293,7 +293,7 @@ body {
   margin-right: 7px;
 }
 
-.Contacts-saction-link {
+.Contacts-section-link {
   color: #6b717b;
   font-style: normal;
   font-weight: normal;
@@ -306,13 +306,13 @@ body {
   transition: color 500ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
-.Contacts-saction-link:hover {
+.Contacts-section-link:hover {
   color: #fb6d3a;
 }
 
-/* languages saction */
+/* languages section */
 
-.saidbar-language {
+.sidebar-language {
   font-style: normal;
   font-weight: bold;
   font-size: 22px;
@@ -337,7 +337,7 @@ body {
   color: #f5f7fa;
 }
 
-/* Tech scills saction */
+/* Tech scills section */
 
 .Tech-scills-list {
   padding: 0 0 0 17px;
@@ -355,9 +355,9 @@ body {
   color: #f5f7fa;
 }
 
-/* Soft scills saction */
+/* Soft scills section */
 
-.Softt-scills-saction {
+.Softt-scills-section {
   margin: 50px 0 0 40px;
 }
 
