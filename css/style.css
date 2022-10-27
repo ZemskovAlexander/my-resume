@@ -6,9 +6,9 @@ body {
 .main-container {
   display: flex;
   flex-direction: row-reverse;
-  width: 1200px;
+  /* width: 1200px; */
   background-color: #f5f7fa;
-  margin: 40px auto;
+  /* margin: 40px auto; */
   box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
 }
 
@@ -127,7 +127,7 @@ body {
 /* My work experience */
 
 .my-work-experience-company {
-  color: #fb6d3a;
+  color: #000000;
 }
 
 .my-work-experience-position {
@@ -143,7 +143,8 @@ body {
   font-weight: normal;
   font-size: 12px;
   line-height: 15px;
-  color: #a8a8a8;
+    color: #595959;
+
   margin: 0 0 10px 0;
 }
 
@@ -176,7 +177,9 @@ body {
   font-weight: bold;
   font-size: 16px;
   line-height: 20px;
-  color: #fb6d3a;
+  color: #000000;
+  margin-bottom: 10px;
+  margin-top: 25px;
 }
 
 .my-education-first-too,
@@ -186,6 +189,8 @@ body {
   font-size: 16px;
   line-height: 20px;
   color: #000000;
+margin-bottom: 10px;
+margin-top: 0;
 }
 
 .my-education-time,
@@ -194,7 +199,8 @@ body {
   font-weight: normal;
   font-size: 12px;
   line-height: 15px;
-  color: #a8a8a8;
+    color: #595959;
+
   margin: 0 0 10px 0;
 }
 
@@ -236,6 +242,14 @@ body {
   margin-top: 20px;
 }
 
+.Tech-scills-item-text-location {
+list-style: none;
+  display: flex;
+  justify-content: center;
+  padding: 0;
+  margin-top: 0px;
+  color: #f5f7fa;}
+
 .icon-item + .icon-item {
   margin-left: 10px;
 }
@@ -257,7 +271,7 @@ body {
 
 .icon-link:hover,
 .icon-link:focus {
-  background-color: #fb6d3a;
+  background-color: #000000;
 }
 
 .icon-link:hover .icon-svg,
@@ -294,7 +308,7 @@ body {
 }
 
 .Contacts-section-link {
-  color: #6b717b;
+  color: #f5f7fa;
   font-style: normal;
   font-weight: normal;
   font-size: 14px;
@@ -307,7 +321,7 @@ body {
 }
 
 .Contacts-section-link:hover {
-  color: #fb6d3a;
+  color: black;
 }
 
 /* languages section */
@@ -326,7 +340,7 @@ body {
 }
 
 .language-item {
-  color: #fb6d3a;
+  color: #f5f7fa;
 }
 
 .language-item-text {
@@ -341,10 +355,11 @@ body {
 
 .Tech-scills-list {
   padding: 0 0 0 17px;
+  /* list-style: none; */
 }
 
 .Tech-scills-item {
-  color: #fb6d3a;
+  color: #f5f7fa;
 }
 
 .Tech-scills-item-text {
@@ -357,19 +372,19 @@ body {
 
 /* Soft scills section */
 
-.Softt-scills-section {
+.Soft-scills-section {
   margin: 50px 0 0 40px;
 }
 
-.Softt-scills-list {
+.Soft-scills-list {
   padding: 0 0 0 17px;
 }
 
-.Softt-scills-item {
-  color: #fb6d3a;
+.Soft-scills-item {
+  color: #f5f7fa;
 }
 
-.Softt-scills-item-text {
+.Soft-scills-item-text {
   font-style: normal;
   font-weight: normal;
   font-size: 14px;
