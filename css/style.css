@@ -57,7 +57,7 @@ body {
   font-weight: normal;
   font-size: 14px;
   line-height: 24px;
-  color: #595959;
+  
 }
 
 /* My projects section */
@@ -80,7 +80,7 @@ body {
   font-weight: normal;
   font-size: 14px;
   line-height: 24px;
-  color: #595959;
+  
 }
 
 .my-projects-text {
@@ -88,7 +88,7 @@ body {
   font-weight: normal;
   font-size: 14px;
   line-height: 24px;
-  color: #595959;
+  
   margin-left: 5px;
 }
 
@@ -121,7 +121,7 @@ body {
   font-weight: normal;
   font-size: 14px;
   line-height: 24px;
-  color: #595959;
+  color: #000;
 }
 
 /* My work experience */
@@ -143,7 +143,7 @@ body {
   font-weight: normal;
   font-size: 12px;
   line-height: 15px;
-    color: #595959;
+    
 
   margin: 0 0 10px 0;
 }
@@ -162,7 +162,7 @@ body {
   font-weight: normal;
   font-size: 14px;
   line-height: 24px;
-  color: #595959;
+  
 }
 
 .my-work-experience-company-block {
@@ -199,7 +199,7 @@ margin-top: 0;
   font-weight: normal;
   font-size: 12px;
   line-height: 15px;
-    color: #595959;
+    
 
   margin: 0 0 10px 0;
 }
